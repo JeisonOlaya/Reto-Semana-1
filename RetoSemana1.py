@@ -8,7 +8,7 @@ nombre = input("Por favor ingresar el nombre del producto: ")
 valPre = True
 while valPre:
     try:
-        precio= float (input("Ingresa el precio del producto: ")) 
+        precio= int (input("Ingresa el precio del producto: ")) 
         if precio<=0:
             print("el Dato ingresado del precio es erroneo")
                   

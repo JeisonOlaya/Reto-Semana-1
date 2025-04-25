@@ -1,6 +1,8 @@
+print("\n")
 print("**"*18)
 print("*** ESTA ES TU FACTURA DE VENTA ***")
 print("**"*18)
+print("\n")
 
 nombre = input("Por favor ingresar el nombre del producto: ")
 
